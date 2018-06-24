@@ -17,7 +17,7 @@
 ```
 ### 快速开始
 ```
-1. cp ~/Vacomall-Spring-RestApi
+1. cp ~/speed-common-api
 2. mvn clean package
 3. mvn jetty:run
 4. http://localhost:8080/swagger-ui.html
